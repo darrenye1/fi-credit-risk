@@ -4,15 +4,15 @@
     "name": "Hypothetical Canadian Bank",
     "framework": "Financial Institution (FI) Obligor Credit Risk",
     "disclaimer": "Educational portfolio project. The obligor is presented as a hypothetical Canadian bank. Market and statement figures are drawn from public market data providers for illustration only; regulatory-style ratios are a stylized overlay calibrated to publicly reported Canadian large-bank ranges. Internal ratings, PDs, LGDs, facilities, peer labels, and stress scenarios are illustrative \u2014 not official bank models, agency ratings, actual exposures, or the views of any employer or financial institution. Not investment or credit advice.",
-    "last_refreshed_at": "2026-08-24 15:46 UTC",
+    "last_refreshed_at": "2026-08-31 20:45 UTC",
     "auto_refresh": "GitHub Actions refreshes public market/statement data weekly for illustration. Update data/regulatory_metrics.json to refresh the stylized regulatory overlay."
   },
   "metrics": {
     "ticker": "HCB",
     "name": "Hypothetical Canadian Bank",
-    "as_of_market": "2026-08-24",
+    "as_of_market": "2026-08-31",
     "regulatory_as_of": "2026-01-31",
-    "market_cap": 192943030272,
+    "market_cap": 198112362496,
     "total_assets": 2094558000000.0,
     "stockholders_equity": 127827000000.0,
     "total_deposits": null,
@@ -33,8 +33,8 @@
     "allowance_to_loans": 0.98,
     "nim": 1.85,
     "efficiency_ratio": 52.8,
-    "roaa": 0.72,
-    "roae": 11.91,
+    "roaa": 0.78,
+    "roae": 12.83,
     "loan_to_deposit": 77.0,
     "g_sib": true,
     "peer_group": "Hypothetical Canadian large banks",
@@ -168,7 +168,7 @@
       {
         "name": "ROAA",
         "category": "Earnings",
-        "raw_value": 0.72,
+        "raw_value": 0.78,
         "unit": "%",
         "score": 55.0,
         "weight": 0.12,
@@ -281,7 +281,7 @@
         "npl_ratio": 0.57,
         "nco_ratio": 0.42,
         "lcr": 137.0,
-        "roaa": 0.72,
+        "roaa": 0.78,
         "efficiency_ratio": 52.8
       },
       "rating": "A",
@@ -311,7 +311,7 @@
         "npl_ratio": 0.92,
         "nco_ratio": 0.67,
         "lcr": 132,
-        "roaa": 0.47,
+        "roaa": 0.53,
         "efficiency_ratio": 55.8
       },
       "rating": "A",
@@ -341,7 +341,7 @@
         "npl_ratio": 1.77,
         "nco_ratio": 1.32,
         "lcr": 122,
-        "roaa": 0.02,
+        "roaa": 0.08,
         "efficiency_ratio": 60.8
       },
       "rating": "BBB-",
@@ -371,7 +371,7 @@
         "npl_ratio": 0.77,
         "nco_ratio": 0.52,
         "lcr": 112,
-        "roaa": 0.32,
+        "roaa": 0.38,
         "efficiency_ratio": 56.8
       },
       "rating": "A",
@@ -424,7 +424,7 @@
       {
         "indicator": "ROAA",
         "threshold": "\u2265 0.60% (watch < 0.90%)",
-        "actual": "0.72%",
+        "actual": "0.78%",
         "status": "Watch",
         "severity": "Medium",
         "comment": "Earnings capacity to absorb credit costs"
@@ -520,8 +520,8 @@
     }
   ],
   "market": {
-    "price": 116.79,
-    "marketCap": 192943030272,
+    "price": 120.91,
+    "marketCap": 198112362496,
     "beta": 0.873,
     "sector": "Financial Services",
     "industry": "Banks - Diversified",
