@@ -4,15 +4,15 @@
     "name": "Hypothetical Canadian Bank",
     "framework": "Financial Institution (FI) Obligor Credit Risk",
     "disclaimer": "Educational portfolio project. The obligor is presented as a hypothetical Canadian bank. Market and statement figures are drawn from public market data providers for illustration only; regulatory-style ratios are a stylized overlay calibrated to publicly reported Canadian large-bank ranges. Internal ratings, PDs, LGDs, facilities, peer labels, and stress scenarios are illustrative \u2014 not official bank models, agency ratings, actual exposures, or the views of any employer or financial institution. Not investment or credit advice.",
-    "last_refreshed_at": "2026-09-14 19:47 UTC",
+    "last_refreshed_at": "2026-09-21 19:56 UTC",
     "auto_refresh": "GitHub Actions refreshes public market/statement data weekly for illustration. Update data/regulatory_metrics.json to refresh the stylized regulatory overlay."
   },
   "metrics": {
     "ticker": "HCB",
     "name": "Hypothetical Canadian Bank",
-    "as_of_market": "2026-09-14",
+    "as_of_market": "2026-09-21",
     "regulatory_as_of": "2026-01-31",
-    "market_cap": 197825626112,
+    "market_cap": 203322818560,
     "total_assets": 2094558000000.0,
     "stockholders_equity": 127827000000.0,
     "total_deposits": null,
@@ -520,8 +520,8 @@
     }
   ],
   "market": {
-    "price": 120.735,
-    "marketCap": 197825626112,
+    "price": 124.09,
+    "marketCap": 203322818560,
     "beta": 0.866,
     "sector": "Financial Services",
     "industry": "Banks - Diversified",
