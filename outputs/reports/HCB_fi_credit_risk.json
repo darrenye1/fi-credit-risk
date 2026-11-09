@@ -8,9 +8,9 @@
   "metrics": {
     "ticker": "HCB",
     "name": "Hypothetical Canadian Bank",
-    "as_of_market": "2026-11-02",
+    "as_of_market": "2026-11-09",
     "regulatory_as_of": "2026-01-31",
-    "market_cap": 204192415744,
+    "market_cap": 202885988352,
     "total_assets": 2094558000000.0,
     "stockholders_equity": 127827000000.0,
     "total_deposits": null,
@@ -518,8 +518,8 @@
     }
   ],
   "market": {
-    "price": 125.04,
-    "marketCap": 204192415744,
+    "price": 124.24,
+    "marketCap": 202885988352,
     "beta": 0.868,
     "sector": "Financial Services",
     "industry": "Banks - Diversified",
